@@ -28,6 +28,7 @@ export default class SearchableMovieReviewsContainer extends Component {
         reviews: data.results
     }))
     }
+    
         //Make sure "onsubmit" is a callback function
     render() {
         return (
